@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Leibnitz Edison Rojas Castillo  
 ### *Estudiante de Ingeniería de Sistemas | Maestro FIDE (Ajedrez) ♟️*  
 
